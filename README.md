@@ -9,6 +9,8 @@ Learned to develop a resume-website with links and backgroundo-images using flex
 
 Update:
 06/30/21
-Aligned content in index.html
-Linked Resume.html to index.html
-Updated style.css
+*Aligned content in index.html
+
+*Linked Resume.html to index.html
+
+*Updated style.css
