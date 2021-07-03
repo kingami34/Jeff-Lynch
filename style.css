@@ -1,0 +1,64 @@
+header {
+  background-color: black;
+  width: 100%;
+}
+.hero{
+    background-image: url("./images/beachPicture.jpg");
+    height: 600px;
+    width: 100%;
+}
+.hr{
+ width:  600px;
+}
+.container{
+   display: flex;
+   justify-content: right;
+   right: 300px;
+ 
+}
+
+/*li {
+  display: inline;
+  padding-right: 50px;
+}
+
+#newday {
+  bottom: left;
+  color: cyan;
+  display: flex;
+  background-image: url(file:///C:/Users/Kinga/Pictures/Zebra2.jpg);
+  padding: 300px;
+  margin: 0px;
+  outline: 2px solid red;
+}*/
+.vl{
+border-left: 6px solid red;
+height: 200px;
+left: 50%;
+}
+.Code{
+ background-image: url("./images/Code.jpg");   
+ height: 500px;
+ 
+ 
+}
+.Node{
+    background-image: url(./images/Node.jpg);
+    height: 150px;
+    
+}
+.Hard{
+    background-image: url(./images/Hardwork.jpg);
+    height: 150px;
+}
+.Team{
+    background-image: url(./images/Team.jpg);
+    height: 150px;
+}
+.strategy{
+    background-image: url(./images/Strategy.jpg);
+    height: 150px;
+}
+
+
+
