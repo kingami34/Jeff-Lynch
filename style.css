@@ -1,4 +1,4 @@
-body{
+body {
   background-color: lightgrey;
   width: 100%;
 }
@@ -8,110 +8,133 @@ body{
   background-image: url("./Assets/images/beachPicture.jpg");
   height: 600px;
   width: 100%;
-  
+
 }
+
 /*ul .Info li{
   
   list-style: none;
   display: inline;
 }*/
 
-  .hr {
-    width: 600px;
-  }
+.hr {
+  width: 600px;
+}
 
-  .aboutMe {
-    display: block;
-    text-align: left;
-    margin-left: 0px;
-    margin-top:  0px;
-  }
-  .Doer{
-    margin-top: -300px;
-    margin-left: 400px;
-  }
+#aboutMe {
+  position: relative;
+  top: 150px;
+}
 
-  .work {
-    display: block;
-    margin-right: 300px;
-    margin-top: 50px;
-  }
+.Doer {
+  margin-top: -300px;
+  margin-left: 400px;
+}
+#work{
+  position: relative;
+  top: 150px;
+}
 
-  .vl-1 {
-    border-left: 6px solid red;
-    height: 300px;
-    margin-left: 250px;
-    margin-top: 0px;
-  }
-  .vl-12 {
-    border-left: 6px solid red;
-    height: 200px;
-    margin-left: 250px;
-    margin-top: -100px;
-    
+/*.work {
+  display: block;
+  margin-right: 300px;
+  margin-top: 100px;
+}*/
 
-  }
-.vl-2{
+.vl-1 {
   border-left: 6px solid red;
-    height: 950px;
-    margin-left: 300px;
+  height: 300px;
+  margin-left: 250px;
+  margin-top: 0px;
+}
+
+.vl-12 {
+  border-left: 6px solid red;
+  height: 200px;
+  margin-left: 250px;
+  margin-top: 200px;
+
+
+}
+
+.vl-2 {
+  border-left: 6px solid red;
+  height: 600px;
+  margin-left: 300px;
+  
 }
 
 
-  .Code {
-    background-image: url("./Assets/images/Code.jpg");
-    color:yellow;
-    display: flex;
-    justify-content: right;
-    margin-top: 500px;
-  }
+.Code {
+  background-image: url("./Assets/images/Code.jpg");
+  color: yellow;
+  display: flex;
+  margin-right: -500px;
+  margin-top: -300px;
+  position: relative;
+  right: -500px;
+  
+  
+
+}
 
 
-  .Node {
-    background-image: url("./Assets/images/Node.jpg");
-    color: yellow;
-    display: flex;
-    justify-content: right;
-    
-  }
 
-  .Hard {
-    background-image: url("./Assets/images/Hardwork.jpg");
-    color: yellow;
-  }
+.Node {
+  background-image: url("./Assets/images/Node.jpg");
+  color: yellow;
+  display: flex;
+  margin-right: -500px;
+  margin-top: -250px;
+  position: relative;
+  right: -500px;
+}
 
-  .Team {
-    background-image: url("./Assets/images/Team.jpg");
-    color: yellow;
-  }
+.Hard {
+  background-image: url("./Assets/images/Hardwork.jpg");
+  color: yellow;
+}
 
-  .strategy {
-    background-image: url("./Assets/images/Strategy.jpg");
-    color: yellow;
-  }
+.Team {
+  background-image: url("./Assets/images/Team.jpg");
+  color: yellow;
+}
 
-  .contactme {
-    margin-top: 100px;
-    margin-left: -100px;
+.strategy {
+  background-image: url("./Assets/images/Strategy.jpg");
+  color: yellow;
+}
 
-  } 
+#contactme {
+  display: flex;
+  position: relative;
+  bottom: -300px
+  
 
-  .Info {
-    margin-left: 500px;
-    margin-top: -175px;
-    list-style: none;
-    text-decoration: underline;
-    display:inline-flex;
-    justify-content: space-evenly;
-    
-  }
-.Resume{
+
+}
+
+.Info {
+  position: relative;
+  bottom: 100px;
+  margin-left: 500px;
+  margin-top: -775px;
+  list-style: none;
+  text-decoration: underline;
+  display: inline-flex;
+ 
+  
+
+}
+
+.Resume {
   background-color: brown;
   text-align: left;
 
-  
+
 }
-img{
+
+img {
   width: 150px;
   height: 150px;
   margin-right: 250px;
@@ -119,18 +142,19 @@ img{
   content: left;
 
 }
-.Coding{
+
+.Coding {
   background-image: url(./Assets/images/Coding.jpg);
 }
-.JeffLynch{
+
+.JeffLynch {
   display: flex;
   justify-content: center;
   margin-top: 500px;
   color: beige;
 }
-.View{
+
+.View {
   display: flex;
   justify-content: center;
 }
-
-
