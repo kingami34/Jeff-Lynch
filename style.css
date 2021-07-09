@@ -57,38 +57,36 @@ body{
     margin-left: 300px;
 }
 
-  .myWork {
-    justify-content: right;
-    margin-top: -950px;
-  }
 
   .Code {
     background-image: url("./Assets/images/Code.jpg");
-    height: 500px;
     color:yellow;
+    display: flex;
+    justify-content: right;
+    margin-top: 500px;
   }
+
 
   .Node {
     background-image: url("./Assets/images/Node.jpg");
-    height: 150px;
     color: yellow;
+    display: flex;
+    justify-content: right;
+    
   }
 
   .Hard {
     background-image: url("./Assets/images/Hardwork.jpg");
-    height: 150px;
     color: yellow;
   }
 
   .Team {
     background-image: url("./Assets/images/Team.jpg");
-    height: 150px;
     color: yellow;
   }
 
   .strategy {
     background-image: url("./Assets/images/Strategy.jpg");
-    height: 150px;
     color: yellow;
   }
 
