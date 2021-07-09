@@ -121,6 +121,18 @@ img{
   content: left;
 
 }
-
+.Coding{
+  background-image: url(./Assets/images/Coding.jpg);
+}
+.JeffLynch{
+  display: flex;
+  justify-content: center;
+  margin-top: 500px;
+  color: beige;
+}
+.View{
+  display: flex;
+  justify-content: center;
+}
 
 
