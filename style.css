@@ -93,6 +93,11 @@ body {
 .Hard {
   background-image: url("./Assets/images/Hardwork.jpg");
   color: yellow;
+  display: flex;
+  margin-right: -500px;
+  margin-top: 100px;
+  position: relative;
+  right: -500px;
 }
 
 .Team {
