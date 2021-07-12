@@ -19,7 +19,9 @@ This project is an insight to my portfolio of my professional accomplishments.
 
 ## Installation
 
->The first thing you need to go into VS Code and create our portfolio file>Set-up HTML and style css to give an outline to this project.>Add an HTML cover page to give the project a more professional look.
+>The first thing you need to go into VS Code and create our portfolio file
+>Set-up HTML and style css to give an outline to this project.
+>Add an HTML cover page to give the project a more professional look.
 
 
 
