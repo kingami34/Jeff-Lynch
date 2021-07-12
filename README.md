@@ -26,7 +26,7 @@ This project is an insight to my portfolio of my professional accomplishments.
 
 ## Usage
 
-![HTML](../Assets/images/Capture3.PNG)
+![HTML](./Assets/images/Capture3.PNG)
 
 
 
