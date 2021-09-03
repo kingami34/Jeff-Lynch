@@ -32,7 +32,9 @@ body {
 }
 #work{
   position: relative;
-  top: 150px;
+  /* top: 150px; */
+margin: 10px;
+font-size: 25px;
 }
 
 /*.work {
@@ -113,7 +115,8 @@ body {
 #contactme {
   display: flex;
   position: relative;
-  bottom: -300px
+  font-size: 25px;
+  
   
 
 
@@ -162,4 +165,11 @@ img {
 .View {
   display: flex;
   justify-content: center;
+}
+.learnMore{
+  margin: 10px;
+  font-size: 25px;
+}
+.my-4{
+  font-weight: bold;
 }
