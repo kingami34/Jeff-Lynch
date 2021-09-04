@@ -31,17 +31,12 @@ body {
   margin-left: 400px;
 }
 #work{
-  position: relative;
-  /* top: 150px; */
-margin: 10px;
-font-size: 25px;
+   position: relative;
+ font-size: 25px;  
+
+
 }
 
-/*.work {
-  display: block;
-  margin-right: 300px;
-  margin-top: 100px;
-}*/
 
 .vl-1 {
   border-left: 6px solid red;
@@ -116,11 +111,14 @@ font-size: 25px;
   display: flex;
   position: relative;
   font-size: 25px;
-  
-  
-
 
 }
+.list-group{
+  position: relative;
+  bottom: -250px;
+  padding: 20px;
+}
+
 
 .Info {
   position: relative;
@@ -170,6 +168,18 @@ img {
   margin: 10px;
   font-size: 25px;
 }
-.my-4{
+.my-5{
   font-weight: bold;
+  padding-left: 15px;
 }
+
+.container{
+  display: flex;
+
+}
+ .card1{
+position: relative;
+bottom: -250px;
+background-color: white;
+padding-bottom: 25px;
+ }
